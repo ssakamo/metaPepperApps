@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="move_the_pepper-fbc2b0">
+<package version="0.0.0" uuid="move_the_pepper-fbc2b0">
  <names>
   <name lang="en_US">move_the_pepper</name>
  </names>
