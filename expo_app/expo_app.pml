@@ -2,10 +2,12 @@
 <Package name="expo_app" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="." xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="test" src="html/index.html" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
 </Package>
