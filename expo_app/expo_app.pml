@@ -7,6 +7,7 @@
     <Dialogs />
     <Resources>
         <File name="test" src="html/index.html" />
+        <File name="icon" src="icon.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
