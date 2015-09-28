@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="expo_app-591f0e">
+ <names>
+  <name lang="en_US">技術展デモアプリ</name>
+  <name lang="ja_JP">技術展デモアプリ</name>
+ </names>
+ <supportedLanguages>
+  <language>ja_JP</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>ja_JP</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path=".">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
